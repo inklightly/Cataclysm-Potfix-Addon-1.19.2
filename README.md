@@ -7,7 +7,7 @@ I am not L_Ender, nor am I affiliated with L_Ender. The original mod can be foun
 https://www.curseforge.com/minecraft/mc-mods/lendercataclysm \
 L_Enders_Cataclysm-2.46-1.19.2 is a required dependency. Please make sure you have the original mod installed before launching. \
  \
-I will not be pushing updates or coding for other versions, this is a bandaid until the original mod's 1.19.2 version gets patched. \
+I will not be pushing updates or coding for other versions, this is a bandaid as 1.19.2 isn't supported by the original developer anymore. \
  \
 Created with assistance from GPT-5. I *barely* know java, and this mod isn't open source. Don't @ me.
 
