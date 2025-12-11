@@ -2,6 +2,7 @@
 Patches a bug in L_Enders_Cataclysm-2.46-1.19.2, that causes the game to crash when breaking/interacting with a Decorated Pot.
 
 ## Important
+Cataclysm is a minecraft mod created by L_Ender.
 I am not L_Ender, nor am I affiliated with L_Ender. The original mod can be found here: \
 https://www.curseforge.com/minecraft/mc-mods/lendercataclysm \
 L_Enders_Cataclysm-2.46-1.19.2 is a required dependency. Please make sure you have the original mod installed before launching. \
