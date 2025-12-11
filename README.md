@@ -3,7 +3,7 @@ Patches a bug in L_Enders_Cataclysm-2.46-1.19.2, that causes the game to crash w
 
 ## Usage/Installation
 - Download [L_Enders_Cataclysm-2.46-1.19.2](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm/files/6470672).
-- Download [cataclysm-pot-fix-1.0.6.jar](https://github.com/inklightly/Cataclysm-Potfix-Addon-1.19.2/releases/tag/1.19.2).
+- Download [potfix-cataclysm-addon-1.0.6.jar](https://github.com/inklightly/Cataclysm-Potfix-Addon-1.19.2/releases/tag/1.19.2).
 - Drop both into your `mods/` folder.
 
 
