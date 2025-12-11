@@ -1,0 +1,31 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"          # Forge 1.19.2 uses 43.x
+license = "All Rights Reserved"
+issueTrackerURL = ""
+
+showAsResourcePack = false
+
+[[mods]]
+modId = "mixample"
+version = "1.0.1"
+displayName = "mixample"
+authors = "inklightly"
+description = '''
+Small Forge mod whose only job is to run a mixin.
+'''
+
+# Dependencies on Forge itself
+[[dependencies.mixample]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+
+# Dependencies on Minecraft
+[[dependencies.mixample]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19.2,1.20)"
+ordering = "NONE"
+side = "BOTH"
