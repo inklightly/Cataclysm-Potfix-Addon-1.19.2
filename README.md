@@ -2,9 +2,9 @@
 Patches a bug in L_Enders_Cataclysm-2.46-1.19.2, that causes the game to crash when breaking/interacting with a Decorated Pot.
 
 ## Usage/Installation
-- Install [L_Enders_Cataclysm-2.46-1.19.2](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm/files/6470672).
-- Drop [cataclysm-pot-fix-1.0.6.jar](https://github.com/inklightly/Cataclysm-Potfix-Addon-1.19.2/releases/tag/1.19.2) into your `mods/` folder.
-- Done!
+- Download [L_Enders_Cataclysm-2.46-1.19.2](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm/files/6470672).
+- Download [cataclysm-pot-fix-1.0.6.jar](https://github.com/inklightly/Cataclysm-Potfix-Addon-1.19.2/releases/tag/1.19.2).
+- Drop both into your `mods/` folder.
 
 
 ## Important
